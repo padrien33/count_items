@@ -14,4 +14,4 @@ And run it:
 
 `python count_items.py`
 
-Make sure the response.json is in the same folder as count_items.py
+Make sure the *response.json* is in the same folder as *count_items.py*
